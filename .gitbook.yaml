@@ -1,4 +1,5 @@
 root: ./
 structure:
     summary: SUMMARY.md
-plugins: theme-api
+plugins:
+    - theme-material
