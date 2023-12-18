@@ -1,6 +1,4 @@
 root: ./docs
 structure:
     summary: SUMMARY.md
-plugins:
-  - search-pro
-  - theme-default
+plugins: richquotes
